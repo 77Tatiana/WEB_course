@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(151, 170, 164);
+    }
+
+img {
+    width : 200px
+}
+
+h2 {
+    color: rgb(42, 5, 78);
+}
+
+h4 {
+    color: rgb(90, 2, 2);
+}
+
+a {
+    color: rgb(5, 5, 66);
+}
+
+body {
+
+    background: linear-gradient(to top, #8c95cc, #e9ab76);
+
+    width: 1400px;
+
+    height: 1400px;
+
+}
